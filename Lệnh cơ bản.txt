@@ -1,0 +1,1 @@
+Làm bảng: <table border="1" style="width: 300px; border-collapse: collapse;">
